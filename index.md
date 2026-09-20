@@ -97,3 +97,11 @@ Graduated first in my cohort and delivered the valedictory address at the gradua
 ## Additional activities
 
 ## Contact
+
+[Email](mailto:arnaoutloulwa@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/loulwah-arnaout/) ·
+[Google Scholar](https://scholar.google.com/citations?user=7RHPyjMAAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0009-0003-3766-2630) ·
+[GitHub](https://github.com/loulwah-arnaout)
+
+<!-- TODO: Add a downloadable CV after completing the one-page version. -->
