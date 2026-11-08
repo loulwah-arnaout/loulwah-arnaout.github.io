@@ -15,15 +15,13 @@ My research experience spans few-shot learning for toxicity prediction, molecula
 **[Saarland University](https://www.uni-saarland.de/en/home.html)**  
 *April 2024 – October 2026 · Saarbrücken, Germany*
 
-Completed the MSc in Bioinformatics, with a focus on machine learning applications in bioinformatics and cheminformatics.
-
 - **Current grade:** 1.6 (final thesis grade pending)
 - **Master's thesis:** Assessing Few-Shot Learning Techniques for Hormone-Related Toxicity Prediction
 
 ### BSc in Bioinformatics
 
 **[Lebanese American University](https://www.lau.edu.lb/)**  
-*August 2019 – August 2022 · Lebanon*
+*August 2019 – August 2022 · Beirut, Lebanon*
 
 - **GPA:** 3.87/4.00 — High Distinction
 - **Bachelor's thesis:** Binding mechanism analysis and 3D QSAR studies on sulfonamide scaffold Lp-PLA2 inhibitors
