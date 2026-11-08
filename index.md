@@ -4,11 +4,31 @@ layout: default
 
 ## About me
 
-I recently completed my MSc in Bioinformatics at Saarland University,  where I focused on applying machine learning to problems in computational biology and drug discovery.
+I recently completed my MSc in Bioinformatics at Saarland University,  where I focused on applying machine learning to problems in computational biology and cheminformatics.
 
 My research experience spans few-shot learning for toxicity prediction, molecular representation learning, multi-omics data analysis, and molecular property prediction. I currently work as a student research assistant at the Chair of Data-Driven Drug Design, contributing to computational research projects involving machine learning and molecular data.
 
-## Research experience
+## Education
+
+### MSc in Bioinformatics
+
+**[Saarland University](https://www.uni-saarland.de/en/home.html)**  
+*April 2024 – October 2026 · Saarbrücken, Germany*
+
+Completed the MSc in Bioinformatics, with a focus on machine learning applications in bioinformatics and cheminformatics.
+
+- **Current grade:** 1.6 (final thesis grade pending)
+- **Master's thesis:** Assessing Few-Shot Learning Techniques for Hormone-Related Toxicity Prediction
+
+### BSc in Bioinformatics
+
+**[Lebanese American University](https://www.lau.edu.lb/)**  
+*August 2019 – August 2022 · Lebanon*
+
+- **GPA:** 3.87/4.00 — High Distinction
+- **Bachelor's thesis:** Binding mechanism analysis and 3D QSAR studies on sulfonamide scaffold Lp-PLA2 inhibitors
+
+## Work experience
 
 ### Student Research Assistant
 
@@ -44,7 +64,37 @@ Investigated how transcript levels relate to protein abundance using matched tra
 **Related publication:** [*Relating Transcriptomics to Protein Abundance Reveals Self-Driven vs. Interactor-Driven Proteins*](https://doi.org/10.1002/pro.70806), *Protein Science*, 2026.
 
 **[Code and processed data](https://doi.org/10.5281/zenodo.21417532)**
+
 ## Research projects
+
+### Master's Thesis: Assessing Few-Shot Learning Techniques for Hormone-Related Toxicity Prediction
+
+**Chair of Data-Driven Drug Design, Saarland University**  
+*2026 · Saarbrücken, Germany*
+
+**Supervisors:** Prof. Dr. Andrea Volkamer, Prof. Dr. Kerstin Lenhof, Lisa-Marie Rolli
+
+Investigated machine-learning approaches for toxicity prediction under limited-data conditions, using hormone-related assays from the ToxCast dataset.
+
+- Implemented and evaluated transfer learning, model-agnostic meta-learning (MAML), and multi-task learning approaches.
+- Compared different learning strategies and experimental conditions to investigate their performance in low-data settings.
+
+**Related presentation:** [ELLIS Summer School](#presentations-and-training) — poster on the robustness of few-shot learning for low-data toxicity prediction.
+
+### Bachelor's Thesis: Binding mechanism analysis and 3D QSAR studies on sulfonamide scaffold Lp-PLA2 inhibitors
+
+**Lebanese American University**  
+*2022 · Lebanon*
+
+**Supervisor:** Dr. Joseph Rebehmed
+
+**Project collaborator:** Reine Mansour
+
+Investigated the binding mechanisms and structure–activity relationships of sulfonamide-scaffold inhibitors of lipoprotein-associated phospholipase A2 (Lp-PLA2), a potential therapeutic target involved in inflammatory pathways.
+
+- Analyzed protein–ligand interactions and compared crystal structures of Lp-PLA2 bound to inhibitors with different potencies.
+- Performed sequence conservation analysis using PSI-BLAST, MAFFT, ConSurf, and UCSF Chimera to investigate the evolutionary conservation of binding-site residues.
+- Developed and evaluated comparative molecular field analysis (CoMFA) models using Open3DQSAR and partial least-squares (PLS) regression to investigate the relationship between molecular interaction fields and inhibitory activity.
 
 ## Publications
 
@@ -67,7 +117,14 @@ Investigated how transcript levels relate to protein abundance using matched tra
 
 Presented the poster *“Assessing Robustness of Few-Shot Learning for Low-Data Toxicity Prediction”* and delivered a one-minute pitch introducing the work.
 
-<!-- TODO: add link to the poster PDF after thesis submission and supervisor approval -->
+## Skills
+
+- **Programming:** Python, R, Java, SQL, Bash
+- **Machine learning & data analysis:** PyTorch, scikit-learn, regression, classification, transfer learning, meta-learning, multi-task learning, model evaluation
+- **Cheminformatics & molecular modeling:** RDKit, PyMOL, UCSF Chimera, AutoDock Tools, Open3DQSAR, BIOVIA Discovery Studio, Schrödinger Maestro
+- **Bioinformatics:** Seurat, ArchR, sequence alignment, protein–protein interaction networks, multi-omics data analysis
+- **Computing & development:** Git, Linux, HPC computing, Jupyter Notebooks
+- **Languages:** Arabic (native), English (C1), French (B2), German (B1)
 
 ## Awards
 
@@ -92,9 +149,7 @@ Full-tuition scholarship awarded for ranking first across my grade cohort and ma
 
 Graduated first in my cohort and delivered the valedictory address at the graduation ceremony. Also received the **Administrative Board Award** for academic excellence and exemplary conduct.
 
-## Skills
-
-## Additional activities
+<!-- TODO: Additional Experience & Activities / Selected Coursework Projects (optional) -->
 
 ## Contact
 
