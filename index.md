@@ -4,9 +4,9 @@ layout: default
 
 ## About me
 
-I am a Master's student in Bioinformatics at Saarland University, working at the intersection of machine learning and the computational life sciences.
+I recently completed my MSc in Bioinformatics at Saarland University,  where I focused on applying machine learning to problems in computational biology and drug discovery.
 
-My current research focuses on few-shot and transfer learning for low-data toxicity prediction. I also have experience in molecular representation learning, omics data analysis, and molecular property prediction.
+My research experience spans few-shot learning for toxicity prediction, molecular representation learning, multi-omics data analysis, and molecular property prediction. I currently work as a student research assistant at the Chair of Data-Driven Drug Design, contributing to computational research projects involving machine learning and molecular data.
 
 ## Research experience
 
